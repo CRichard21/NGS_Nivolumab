@@ -1,7 +1,7 @@
 # Exome analysis reveals genomic markers associated with better efficacy of nivolumab in lung cancer patients.
 
 
-Corentin Richard, Jean-David Fumet, Sandy Chevrier, Valentin Derangère, Fanny Ledys, Aurélie Lagrange, Laure Favier, Bruno Coudert, Laurent Arnould, Caroline Truntzer, Romain Boidot and Francois Ghiringhelli
+Corentin Richard, Jean-David Fumet, Sandy Chevrier, Valentin Derangère, Fanny Ledys, Aurélie Lagrange, Laure Favier, Bruno Coudert, Laurent Arnould, Caroline Truntzer, Romain Boidot and Francois Ghiringhelli.
 
 
 **Abstract**
